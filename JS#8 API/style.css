@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.qator{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.block{
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid black;
+    margin-bottom: 12px;
+}
